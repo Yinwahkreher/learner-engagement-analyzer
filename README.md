@@ -27,6 +27,13 @@ learner-engagement-analyzer/
 
 ---
 
+## Tools & Libraries
+- **Python 3**
+- **pandas** – data analysis and cleaning
+- **matplotlib** – data visualization
+
+---
+
 ## How it works
 
 1. Load Data — Reads learner engagement metrics from a .csv file.  
@@ -34,15 +41,6 @@ learner-engagement-analyzer/
 3. Visualize — Creates bar charts and other plots to help identify trends.
 
 ---
-
-## Tools & Libraries
-- **Python 3**
-- **pandas** – data analysis and cleaning
-- **matplotlib** – data visualization
-
-## Dataset
-Dataset: [Predict Online Course Engagement Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-course-engagement-dataset)  
-Source: Kaggle
 
 ## How to run
 1. Clone this repository or download the files.
@@ -62,7 +60,12 @@ Source: Kaggle
 - A chart will be saved as completion_by_course.png
 - The chart will also display on screen
 
+---
+
 ## Example Output
+Demo Dataset: [Predict Online Course Engagement Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-course-engagement-dataset)  
+Source: Kaggle
+
 **Chart:**
 Example visualization showing completion rates by course:  
 ![Completion Rates](completion_by_course.png)
@@ -77,12 +80,16 @@ Top 3 Most Engaged Courses:
 
 Highest Drop-off Risk: Course ID 204
 
+---
+
 ## Future Improvements
 
 - Add predictive modeling for drop-off risk.
 - Integrate dashboard view (e.g., Streamlit).
 - Expand dataset to include multiple platforms.
 - Export automated PDF reports.
+
+---
 
 ## License
 
