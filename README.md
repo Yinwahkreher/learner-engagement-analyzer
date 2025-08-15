@@ -77,13 +77,6 @@ Top 3 Most Engaged Courses:
 
 Highest Drop-off Risk: Course ID 204
 
-💡 Why this project matters
-
-This mini-project bridges **instructional design expertise** with **STEM/data skills**, demonstrating:
-- Practical use of Python for education analytics
-- Evidence-based insights that can inform course design decisions
-- Data storytelling through visualizations
-
 ## Future Improvements
 
 - Add predictive modeling for drop-off risk.
